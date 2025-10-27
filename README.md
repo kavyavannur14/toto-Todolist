@@ -29,7 +29,9 @@ A clean and simple to-do list application built to help you keep track of your d
     ```bash
     npm run dev
     ```
-5.  Open your browser and go to `http://localhost:5173` (or the address shown in your terminal).
+5.  Open your browser and go to `http://localhost:5173` (if u need any changes).
+   
+* OrElse Use: https://nwgnvr-5173.csb.app/
 
 ## Technologies Used
 
